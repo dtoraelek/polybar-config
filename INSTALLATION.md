@@ -10,4 +10,4 @@ OR
 
 3) IF CLONED TO /tmp: cp -r * ~/.config/polybar
 
-4) add 'exec polybar' to your autostart file for WM of choice. You can also launch it temporarily in a terminal emulator by running 'polybar & exit'
+4) add 'exec polybar' to your autostart file for WM of choice. You can also launch it temporarily in a terminal emulator by running 'sh ~/.config/polybar/launch.sh & exit'
