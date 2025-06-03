@@ -6,7 +6,7 @@ OR
 
 1b) cd /tmp
 
-2) git clone https://github.com/dtoraelek/polybar-config
+2) git clone https://github.com/dtoraelek/polybar-config.git
 
 3) IF CLONED TO /tmp: cp -r * ~/.config/polybar
 
